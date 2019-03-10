@@ -1,0 +1,3 @@
+now
+I have a new origin branch
+It is origin/dev
